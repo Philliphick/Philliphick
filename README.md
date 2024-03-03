@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Philliphick
+<h1>- 👋 Hi, I’m @Philliphick</h1>
 - 👀 I’m interested in Fullstack Development
 - Javascript, Next.js, Express.js, MongoDB
 - 🌱 I’m about to finish a Software Development Bootcamp 
