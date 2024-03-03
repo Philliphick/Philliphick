@@ -1,7 +1,8 @@
 <h1> 👋 Hi, I’m @Philliphick</h1>
 <ul>
 <li> 👀 I’m interested in Fullstack Development</li>
-<p style={{color: "#7A2410", fontWeight: "bold", fontSize: "1rem"}}> Javascript, Next.js, Express.js, MongoDB</p><li> 🌱 I’m about to finish a Software Development Bootcamp </li>
+**Javascript, Next.js, Express.js, MongoDB**
+<li> 🌱 I’m about to finish a Software Development Bootcamp </li>
 <li> Currently on the lookout for an entry-level position, anywhere in the UK. </li>
 </ul>
 
