@@ -4,7 +4,7 @@
 - 🌱 I’m about to finish a Software Development Bootcamp 
 - Currently on the lookout for an entry-level position, anywhere in the UK. 
 
-<div style="display: flex; align-items: center;">
+<div style="">
    
     <img src="https://www.codewars.com/users/PhillipAnthony/badges/large" href="https://www.codewars.com/users/PhillipAnthony"/>
 
