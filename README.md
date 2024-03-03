@@ -5,4 +5,4 @@
 - Currently on the lookout for an entry-level position, anywhere in the UK. 
 - 📫 How to reach me : https://www.linkedin.com/in/phillip-hickinbotham/
 
-https://www.codewars.com/users/PhillipAnthony/badges/large
+<img src="https://www.codewars.com/users/PhillipAnthony/badges/large"/>
